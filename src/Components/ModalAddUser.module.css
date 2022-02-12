@@ -1,0 +1,5 @@
+.form {
+  width: 60%;
+  max-height: 40px;
+  display: flex;
+}
